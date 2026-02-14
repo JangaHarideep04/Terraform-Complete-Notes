@@ -1,4 +1,4 @@
-# Copilot Instructions for Terraform AWS Infrastructure
+# Instructions for Terraform AWS Infrastructure
 
 ## Project Overview
 
